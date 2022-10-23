@@ -1,3 +1,3 @@
 # Hello World (Go)
 
-To run: `go run hello-world.go`
+To Run: `go run hello-world.go`
